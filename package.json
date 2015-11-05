@@ -8,7 +8,7 @@
     "stop":   "./node_modules/.bin/forever stop server.js",
     "status": "./node_modules/.bin/forever list",
     "test":   "./node_modules/.bin/mocha -R spec test/server.js test/**/*.js",
-    "test-jenkins": "./node_modules/.bin/mocha -R tap test/server.js test/**/*.js > test-report.xml"
+    "test-jenkins": "./node_modules/.bin/mocha -R tap test/server.js test/**/*.js > test-report.tap"
   },
   "dependencies": {
     "restify": "^3.0.3",
