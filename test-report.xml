@@ -1,4 +1,6 @@
-<testsuite name="Mocha Tests" tests="2" failures="0" errors="0" skipped="0" timestamp="Mon, 02 Nov 2015 12:00:51 GMT" time="0.597">
-<testcase classname="/" name="should return a message" time="0.01"/>
-<testcase classname="/test" name="should return { &quot;result&quot;: &quot;test&quot; }" time="0.004"/>
-</testsuite>
+1..2
+ok 1 / should return a message
+ok 2 /test should return { "result": "test" }
+# tests 2
+# pass 2
+# fail 0
