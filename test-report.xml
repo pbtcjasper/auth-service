@@ -1,6 +1,0 @@
-1..2
-ok 1 / should return a message
-ok 2 /test should return { "result": "test" }
-# tests 2
-# pass 2
-# fail 0
