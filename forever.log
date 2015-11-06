@@ -70,3 +70,14 @@ Error: listen EADDRINUSE :::8000
     at Object.<anonymous> (/Users/jasperlaagland/Documents/06.Development/04.Nodejs/05.auth-service/auth-service/server.js:26:1)
     at Module._compile (module.js:435:26)
     at Object.Module._extensions..js (module.js:442:10)
+{ [Error: Cannot find module './build/Release/DTraceProviderBindings'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module './build/default/DTraceProviderBindings'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module './build/Debug/DTraceProviderBindings'] code: 'MODULE_NOT_FOUND' }
+auth-service listening at http://[::]:8000
+404 No route that matches request for /favicon.ico
+{ [Error: Cannot find module './build/Release/DTraceProviderBindings'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module './build/default/DTraceProviderBindings'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module './build/Debug/DTraceProviderBindings'] code: 'MODULE_NOT_FOUND' }
+auth-service listening at http://[::]:8000
+auth-service listening at http://[::]:8000
+auth-service listening at http://[::]:8000
